@@ -1,4 +1,8 @@
-## 🎓 คอร์สเรียนที่เกี่ยวข้อง
+## 🚀 Guideline & Documents
+- แนวทางการเรียนรู้การพัฒนาเว็บแอพพลิเคชั่น (Web Development) [อ่านบทความ](https://github.com/kongruksiamza/web-guideline)
+- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
+
+## 🎓 คอร์สเรียนที่น่าสนใจ [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/user/kong-ruksiam/)
 - [พัฒนาเว็บแอพพลิเคชั่นด้วย React (Real-World Projects)](https://www.udemy.com/course/react-real-world-projects/?referralCode=4095BDC9C216F318E37D)
 - [พัฒนาเว็บด้วย React 15 Workshop](https://www.udemy.com/course/react-15-workshop/?referralCode=840A73844805926E5A48)
 
